@@ -1,0 +1,20 @@
+.app-container {
+    background-image: url("../public/images/dogs/huellas-arena.jpeg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+  }
+
+  .title {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+    font-family: fantasy;
+  }
+  
+
+
+
+

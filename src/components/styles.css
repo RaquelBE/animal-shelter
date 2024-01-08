@@ -1,0 +1,119 @@
+.card-body {
+  background-color: rgb(247, 230, 230);
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.d-flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+}
+
+.container-presentation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-bottom: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.presentation-image-home {
+  width: 20% !important;
+}
+
+.presentation-image {
+  width: 100%;
+}
+
+.presentation-card {
+  width: 18rem;
+}
+
+.presentation-intro {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.presentation-carrusel {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.title-dog {
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+.contact-info {
+  background-color: rgb(247, 230, 230) !important;
+  font-weight: bold;
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+.email {
+  color: black;
+  font-weight: bolder;
+}
+
+.intro-contact {
+  margin: 20px 10px 10px 10px;
+}
+
+.card-title {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-family: fantasy;
+  font-size: 40px;
+}
+
+.big-form {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.contact-form {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 80%;
+  width: 80%;
+  margin-bottom: 80px;
+  border-radius: 8px;
+}
+
+.form-control {
+  width: 300px;
+}
+
+.navbar-custom {
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+.navbar-custom a:hover {
+  color: white;
+}
+
+.navbar-custom img:hover {
+  background-color: white;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  margin-top: 20px;
+}

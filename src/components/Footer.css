@@ -1,0 +1,41 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-family: fantasy;
+  margin-left: 40px;
+  margin-right: 60px;
+  position: fixed;
+  bottom: 0;
+  width: calc(100% - 80px);
+  border-top: 1px solid #dee2e6;
+  z-index: 1000;
+}
+
+.social-icons {
+  margin-top: 10px;
+}
+
+.social-icons a {
+  margin-right: 10px;
+  color: #000;
+  font-size: 24px;
+}
+
+.social-icons a:hover {
+  color: white;
+}
+
+.footer-icons {
+  display: flex;
+}
+
+.footer-icons > * {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+body {
+  margin-bottom: 60px;
+}
